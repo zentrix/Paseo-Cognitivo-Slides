@@ -2,3 +2,6 @@ slide-number: true
 footnote : "Juan Carlos Villalvazo"
 theme : moon
 theme-override : assets/css/custom.css
+horz-delim : ***
+vert-delim : +++
+vert-delim-regexp : \+\+\+

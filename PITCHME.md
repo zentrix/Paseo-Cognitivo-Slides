@@ -4,18 +4,18 @@ Juan Carlos Villalvazo R.
 
 Maestria en Medios Interactivos
 
-***
+---
 ## Paseo cognitivo
 
 amazon Prime Video
 (Serie MR. ROBOT)
 
-***
+---
 ## Descripción de la tarea
 
 Un joven estudiante de mas de 20 años quiere ver MR. ROBOT, en su cuarto usado su laptop mediante amazon Prime video
 
-***
+---
 ## Información técnica
 
 los requisitos basicos son:
@@ -36,19 +36,19 @@ los requisitos basicos son:
 	* Safari (versión 7 o superior)
 	* Opera (versión 31 o superior)
 
-***
+---
 
 ## Descripción de usuario
 
 * Joven de 20+
 * Estudiante universitario
 * Fan de las series
-***
+---
 
 ## Paso 1
 ![Image1](images/Imagen1.png)
 
 
-***
+---
 
 ## Paso 2

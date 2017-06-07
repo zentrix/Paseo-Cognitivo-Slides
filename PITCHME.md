@@ -37,7 +37,7 @@ los requisitos basicos son:
 
 ## Paso 1
 
-![Image1](images/Imagen3.png)
+![Image1](images/Imagen3.jpg)
 
 El joven entra a la prataforma y selecciona la categoria de TV Shows
 
@@ -47,7 +47,7 @@ El joven entra a la prataforma y selecciona la categoria de TV Shows
 
 EL Joven selecciona la serie de su preferencia, y poner el cursor sobre el titulo seccionado se depliega la información de la serie, al darle click en el boton play se inicia el programa.
 
-![Image1](images/Imagen4.png)
+![Image1](images/Imagen4.jpg)
 
 ***
 
@@ -55,7 +55,7 @@ EL Joven selecciona la serie de su preferencia, y poner el cursor sobre el titul
 
 Despues de inicar el progran y lo primero se muestran anuncios de series propias de amazon prime video
 
-![Image1](images/Imagen5.png)
+![Image1](images/Imagen5.jpg)
 
 ---
 
@@ -63,4 +63,4 @@ Despues de inicar el progran y lo primero se muestran anuncios de series propias
 
 Interfaz de la reproducción de la serie
 
-![Image1](images/Imagen6.png)
+![Image1](images/Imagen6.jpg)

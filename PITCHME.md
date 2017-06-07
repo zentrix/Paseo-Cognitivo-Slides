@@ -17,6 +17,7 @@ amazon Prime Video
 * Joven de 20+
 * Estudiante universitario
 * Fan de las series
+
 ---
 
 ## Descripción de la tarea
@@ -44,22 +45,22 @@ El joven entra a la prataforma y selecciona la categoria de TV Shows
 
 ## Paso 2
 
-![Image1](images/Imagen4.png)
-
 EL Joven selecciona la serie de su preferencia, y poner el cursor sobre el titulo seccionado se depliega la información de la serie, al darle click en el boton play se inicia el programa.
+
+![Image1](images/Imagen4.png)
 
 ***
 
 ## Paso 3
 
-![Image1](images/Imagen5.png)
-
 Despues de inicar el progran y lo primero se muestran anuncios de series propias de amazon prime video
+
+![Image1](images/Imagen5.png)
 
 ---
 
 ## Paso 4
 
-![Image1](images/Imagen6.png)
-
 Interfaz de la reproducción de la serie
+
+![Image1](images/Imagen6.png)

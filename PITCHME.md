@@ -41,7 +41,7 @@ El joven entra a la prataforma y selecciona la categoria de TV Shows
 
 ![Image1](images/Imagen3.jpg)
 
-***
+---
 
 ## Paso 2
 
@@ -49,7 +49,7 @@ EL Joven selecciona la serie de su preferencia, y poner el cursor sobre el titul
 
 ![Image1](images/Imagen4.jpg)
 
-***
+---
 
 ## Paso 3
 
@@ -57,7 +57,7 @@ Despues de inicar el progran y lo primero se muestran anuncios de series propias
 
 ![Image1](images/Imagen5.jpg)
 
-***
+---
 
 ## Paso 4
 

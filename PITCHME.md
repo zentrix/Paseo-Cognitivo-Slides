@@ -37,9 +37,9 @@ los requisitos basicos son:
 
 ## Paso 1
 
-![Image1](images/Imagen3.jpg)
-
 El joven entra a la prataforma y selecciona la categoria de TV Shows
+
+![Image1](images/Imagen3.jpg)
 
 ***
 
@@ -57,7 +57,7 @@ Despues de inicar el progran y lo primero se muestran anuncios de series propias
 
 ![Image1](images/Imagen5.jpg)
 
----
+***
 
 ## Paso 4
 

@@ -1,4 +1,4 @@
-# Paseo Cognitivo a sitios on-demand
+# Paseo Cognitivo a amazon Prime video
 
 Juan Carlos Villalvazo R.
 
@@ -34,8 +34,6 @@ los requisitos basicos son:
 
 ---
 
-
-
 ## Paso 1
 
 ![Image1](images/Imagen3.png)
@@ -63,3 +61,5 @@ Despues de inicar el progran y lo primero se muestran anuncios de series propias
 ## Paso 4
 
 ![Image1](images/Imagen6.png)
+
+Interfaz de la reproducción de la serie
